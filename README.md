@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maykbrito/boracodar/main/10/.github/preview.jpg" width="100%">
+  <img src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
